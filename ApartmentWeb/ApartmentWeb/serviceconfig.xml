@@ -1,0 +1,12 @@
+<SiteConfig>
+  <CompanyName>Mountain Peak Apartments</CompanyName>
+  <CompanyShortName>Mtn. Peak</CompanyShortName>
+  <MailSettings>
+    <SMTPServer>sm04.internetmailserver.net</SMTPServer>
+    <SMTPUsername>Application@rentinbozeman.net</SMTPUsername>
+    <SMTPPw>snowC@pp3dPeeks</SMTPPw>
+    <SMTPPort>25</SMTPPort>
+    <SMTPTo>rentinbozeman@gmail.com</SMTPTo>
+  </MailSettings>
+  <LogLevel>WARN</LogLevel>
+</SiteConfig>
